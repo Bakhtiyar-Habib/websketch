@@ -1,0 +1,60 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block content %}
+
+<!-- CONTAINER -->
+
+<div class="container-fluid services">
+  <div class="row pull-left" id="left-1">
+      <h2>Our Services</h2>
+      <h3>Web & Mobile Development services in one stop.</h3>
+      <h3>Tailored to your specific business needs.</h3>
+  </div>
+</div>
+
+
+
+<!-- SERVICES 2 -->
+
+<div class="container-fluid text-center">
+  <div class="text-center">
+    <h1>Our Services</h1>
+    <h4>Choose a service you require</h4>
+  </div>
+  <div class="row gap">
+    <div class="col-sm-6">
+      <div class="panel panel-default text-center">
+        <div class="panel-heading">
+          <h3>Web Development</h3>
+        </div>
+        <div class="thumbnail">
+        <img src="{% static 'images/webapp.jpg' %}" alt="Paris">
+      </div>
+        <div class="panel-footer">
+          <a href="http://127.0.0.1:8000/webdev">
+            <button class="btn btn-lg">Learn More</button>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-6">
+      <div class="panel panel-default text-center">
+        <div class="panel-heading">
+          <h3>Mobile App Development</h3>
+        </div>
+        <div class="thumbnail">
+        <img src="{% static 'images/mob1.jpg' %}" alt="Paris">
+      </div>
+        <div class="panel-footer">
+          <a href="http://127.0.0.1:8000/mobileapp">
+            <button class="btn btn-lg">Learn More</button>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+{% endblock %}

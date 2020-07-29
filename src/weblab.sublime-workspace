@@ -1,0 +1,489 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"b",
+				"body\tTag"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"get_",
+				"get_total_item_price"
+			],
+			[
+				"get",
+				"get_final_price"
+			],
+			[
+				"ord",
+				"order_item"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"Or",
+				"Order"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"sc",
+				"section\tTag"
+			],
+			[
+				"remove",
+				"remove_from_cart"
+			],
+			[
+				"order",
+				"order_qs"
+			],
+			[
+				"orde",
+				"order_qs"
+			],
+			[
+				"ge",
+				"get_object_or_404"
+			],
+			[
+				"Order",
+				"OrderItem"
+			],
+			[
+				"ca",
+				"category"
+			],
+			[
+				"g",
+				"get_object_or_404"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"log",
+				"logout"
+			],
+			[
+				"is",
+				"is_valid"
+			],
+			[
+				"da",
+				"data"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"fit",
+				"fitelegance_detail_view"
+			],
+			[
+				"qu",
+				"query_set2"
+			],
+			[
+				"object",
+				"object_listmen"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"Br",
+				"Brands_detail"
+			],
+			[
+				"B",
+				"Brands_detail"
+			],
+			[
+				"denim",
+				"denim"
+			],
+			[
+				"query",
+				"query_set3"
+			],
+			[
+				"obj",
+				"object_listwomen"
+			],
+			[
+				"que",
+				"query_set1"
+			],
+			[
+				"for",
+				"formalwomen_list_view"
+			],
+			[
+				"For",
+				"FormalMen"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"cla",
+				"cleaned_data"
+			],
+			[
+				"stat",
+				"static"
+			],
+			[
+				"p",
+				"p\tTag"
+			],
+			[
+				"STAT",
+				"staticfiles"
+			],
+			[
+				"url",
+				"urlpatterns"
+			],
+			[
+				"c",
+				"contrib"
+			],
+			[
+				"back",
+				"background-image\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"TEM",
+				"template"
+			],
+			[
+				"BA",
+				"BASE_DIR"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"d",
+				"django"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/ASUS/Dev/weblab/src/templates/home.html",
+		"/C/Users/ASUS/Dev/weblab/src/asset/css/styles.css",
+		"/C/Users/ASUS/Dev/weblab/src/templates/base.html",
+		"/C/Users/ASUS/Dev/weblab/src/weblab/settings.py",
+		"/C/Users/ASUS/Dev/weblab/src/templates/sample.html",
+		"/C/Users/ASUS/Dev/weblab/src/weblab/urls.py",
+		"/C/Users/ASUS/Dev/weblab/src/pages/views.py",
+		"/C/Users/ASUS/Dev/efashion/src/pages/models.py",
+		"/C/Users/ASUS/Dev/efashion/src/categories/views.py",
+		"/C/Users/ASUS/Dev/efashion/src/cart/models.py",
+		"/C/Users/ASUS/Dev/efashion/src/cart/views.py",
+		"/C/Users/ASUS/Dev/efashion/src/accounts/templates/accounts/order_summary.html",
+		"/C/Users/ASUS/Dev/efashion/src/categories/templates/categories/product_detail.html",
+		"/C/Users/ASUS/Dev/efashion/src/templates/base.html",
+		"/C/Users/ASUS/Dev/efashion/src/brands/templates/brands/brands_list.html",
+		"/C/Users/ASUS/Dev/efashion/src/categories/templates/categories/categories_list1.html",
+		"/C/Users/ASUS/Dev/efashion/src/templates/home1.html",
+		"/C/Users/ASUS/Dev/efashion/src/templates/about.html",
+		"/C/Users/ASUS/Dev/efashion/src/templates/home.html",
+		"/C/Users/ASUS/Dev/efashion/src/templates/base1.html",
+		"/C/Users/ASUS/Dev/efashion/src/traditional/templates/traditional/traditional_list.html",
+		"/C/Users/ASUS/Dev/efashion/src/brands/templates/brands/adidas_list.html",
+		"/C/Users/ASUS/Dev/efashion/src/brands/templates/brands/diesel_list.html",
+		"/C/Users/ASUS/Dev/efashion/src/brands/templates/brands/ralphlauren_list.html",
+		"/C/Users/ASUS/Dev/efashion/src/brands/templates/brands/marksandspencer_list.html",
+		"/C/Users/ASUS/Dev/efashion/src/brands/templates/brands/levis_list.html",
+		"/C/Users/ASUS/Dev/efashion/src/brands/templates/brands/fitelegance_list.html",
+		"/C/Users/ASUS/Dev/efashion/src/brands/templates/brands/everlane_list.html",
+		"/C/Users/ASUS/Dev/efashion/src/brands/templates/brands/dorjibari_list.html",
+		"/C/Users/ASUS/Dev/efashion/src/brands/templates/brands/bata_list.html",
+		"/C/Users/ASUS/Dev/efashion/src/brands/templates/brands/aarong_list.html",
+		"/C/Users/ASUS/Dev/efashion/src/brands/templates/brands/brands_list1.html",
+		"/C/Users/ASUS/Dev/efashion/src/accounts/templates/accounts/order_summary1.html",
+		"/C/Users/ASUS/Dev/efashion/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js",
+		"/C/Users/ASUS/Dev/efashion/src/formal/templates/formal/formal_list.html",
+		"/C/Users/ASUS/Dev/efashion/src/footwear/templates/footwear/footwear_list.html",
+		"/C/Users/ASUS/Dev/efashion/src/casual/templates/casual/casual_list.html",
+		"/C/Users/ASUS/Dev/efashion/src/formal/templates/formal/formal_listold.html",
+		"/C/Users/ASUS/Dev/efashion/src/denim/templates/denim/denim_list.html",
+		"/C/Users/ASUS/Dev/efashion/src/templates/Cart.css",
+		"/C/Users/ASUS/Dev/efashion/src/templates/style.css",
+		"/C/Users/ASUS/Dev/efashion/src/pages/views.py",
+		"/C/Users/ASUS/Dev/efashion/src/categories/templates/categories/categories_list.html",
+		"/C/Users/ASUS/Dev/efashion/src/brands/views.py",
+		"/C/Users/ASUS/Dev/efashion/src/casual/views.py",
+		"/C/Users/ASUS/Dev/efashion/src/traditional/views.py",
+		"/C/Users/ASUS/Dev/efashion/src/footwear/views.py",
+		"/C/Users/ASUS/Dev/efashion/src/categories/models.py",
+		"/C/Users/ASUS/Dev/efashion/src/cart/templates/cart/order_summary.html",
+		"/C/Users/ASUS/Dev/efashion/src/brands/models.py",
+		"/C/Users/ASUS/Dev/efashion/src/denim/views.py",
+		"/C/Users/ASUS/Dev/efashion/src/cart/admin.py",
+		"/C/Users/ASUS/Dev/efashion/src/formal/views.py",
+		"/C/Users/ASUS/Dev/efashion/src/categories/admin.py",
+		"/C/Users/ASUS/Dev/efashion/src/denim/models.py",
+		"/C/Users/ASUS/Dev/efashion/src/efashion/settings.py",
+		"/C/Users/ASUS/Dev/efashion/src/accounts/templates/accounts/signup.html",
+		"/C/Users/ASUS/Dev/efashion/src/accounts/models.py",
+		"/C/Users/ASUS/Dev/efashion/src/accounts/views.py",
+		"/C/Users/ASUS/Dev/efashion/src/accounts/templates/accounts/login.html",
+		"/C/Users/ASUS/Dev/efashion/src/accounts/urls.py",
+		"/C/Users/ASUS/Dev/efashion/src/casual/models.py",
+		"/C/Users/ASUS/Dev/efashion/src/footwear/models.py",
+		"/C/Users/ASUS/Dev/efashion/src/traditional/models.py",
+		"/C/Users/ASUS/Dev/efashion/src/formal/models.py",
+		"/C/Users/ASUS/Dev/efashion/src/formal/migrations/0003_auto_20200512_1042.py",
+		"/C/Users/ASUS/Dev/efashion/src/brands/admin.py",
+		"/C/Users/ASUS/Dev/efashion/src/brands/tests.py",
+		"/C/Users/ASUS/Dev/efashion/src/formal/admin.py",
+		"/C/Users/ASUS/Dev/efashion/src/footwear/admin.py",
+		"/C/Users/ASUS/Dev/efashion/src/traditional/admin.py",
+		"/C/Users/ASUS/Dev/efashion/src/casual/admin.py",
+		"/C/Users/ASUS/Dev/efashion/src/casual/template/casual/casual_list.html",
+		"/C/Users/ASUS/Dev/efashion/src/denim/admin.py",
+		"/C/Users/ASUS/Dev/efashion/src/formal/urls.py",
+		"/C/Users/ASUS/Dev/efashion/src/efashion/urls.py",
+		"/C/Users/ASUS/Dev/efashion/src/templates/product.html",
+		"/C/Users/ASUS/Dev/efashion/src/shops/models.py",
+		"/C/Users/ASUS/Dev/efashion/src/shops/views.py",
+		"/C/Users/ASUS/Dev/efashion/src/shops/templates/shops/shops_list.html",
+		"/C/Users/ASUS/Dev/efashion/src/shops/templates/shops_list.html",
+		"/C/Users/ASUS/Dev/efashion/src/categories/templates/categories/categories_detail.html",
+		"/C/Users/ASUS/Dev/efashion/src/templates/contact.html",
+		"/C/Users/ASUS/Dev/efashion/src/shops/admin.py",
+		"/C/Users/ASUS/Dev/efashion/src/templates/allshops.html",
+		"/C/Users/ASUS/Dev/vertex/src/vertex1/settings.py",
+		"/C/Users/ASUS/Dev/vertex/src/categories/models.py",
+		"/C/Users/ASUS/Dev/vertex/src/categories/forms.py",
+		"/C/Users/ASUS/Dev/vertex/src/categories/templates/categories/categories_detail.html",
+		"/C/Users/ASUS/Dev/vertex/src/brands/templates/brands/brands_detail.html",
+		"/C/Users/ASUS/Dev/vertex/src/brands/models.py",
+		"/C/Users/ASUS/Dev/vertex/src/brands/views.py",
+		"/C/Users/ASUS/Dev/vertex/src/vertex1/urls.py",
+		"/C/Users/ASUS/Dev/vertex/src/brands/templates/brands_detail.html",
+		"/C/Users/ASUS/Dev/vertex/src/categories/views.py",
+		"/C/Users/ASUS/Dev/vertex/src/categories/templates/categories/categories_create.html",
+		"/C/Users/ASUS/Dev/vertex/src/templates/base.html",
+		"/C/Users/ASUS/Dev/vertex/src/templates/Categories/detail.html",
+		"/C/Users/ASUS/Dev/vertex/src/templates/product.html",
+		"/C/Users/ASUS/Dev/vertex/src/pages/views.py",
+		"/C/Users/ASUS/Dev/vertex/src/categories/admin.py",
+		"/C/Users/ASUS/Dev/vertex/src/templates/home.html",
+		"/C/Users/ASUS/Dev/vertex/src/templates/about.html",
+		"/C/Users/ASUS/Dev/vertex/src/templates/copy.html",
+		"/C/Users/ASUS/Dev/vertex/src/templates/design.css",
+		"/C/Users/ASUS/Dev/vertex/src/pages/admin.py",
+		"/C/Users/ASUS/Dev/vertex/src/pages/models.py",
+		"/C/Users/ASUS/Dev/cse327/src/evaly2/settings.py",
+		"/C/Users/ASUS/Dev/cse327/src/Brands/admin.py",
+		"/C/Users/ASUS/Dev/cse327/src/Brands/models.py",
+		"/C/Users/ASUS/Dev/cse327/src/manage.py",
+		"/C/xampp/htdocs/job-portal/meet.php",
+		"/C/xampp/htdocs/cse299/pollvote",
+		"/C/xampp/htdocs/cse299/saveJob.php",
+		"/C/xampp/htdocs/cse299/getvote.php",
+		"/C/xampp/htdocs/cse299/footer.php",
+		"/C/xampp/htdocs/cse299/employerAccount.php",
+		"/C/xampp/htdocs/cse299/deletePost.php",
+		"/C/xampp/htdocs/cse299/connect.php",
+		"/C/xampp/htdocs/cse299/categoryOptions.php",
+		"/C/xampp/htdocs/cse299/authorizeSeeker.php",
+		"/C/xampp/htdocs/cse299/authorizeEmployer.php",
+		"/C/xampp/htdocs/cse299/applyJob.php",
+		"/C/xampp/htdocs/cse299/Appliedjobs.php",
+		"/C/xampp/htdocs/cse299/acceptApplication.php",
+		"/C/xampp/htdocs/cse299/ViewApplicants.php",
+		"/C/xampp/htdocs/cse299/signinEmployerModals.php",
+		"/C/xampp/htdocs/cse299/signin.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"navbar"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 209.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "weblab.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 224.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,111 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Web Sketch Lab</title>
+	  
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <link href="{% static 'css/styles.css' %}" rel="stylesheet">
+  
+</head>
+
+
+<body>
+
+<!-- NAVBAR -->
+
+
+<header>
+<nav class="navbar navbar-inverse navbar-fixed-top">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" id="navbarToggle" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#"><img src="{% static 'images/logo.png' %}" height="90px" width="160px"></a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav navbar-right">
+          <li><a href="http://127.0.0.1:8000/home">Home</a></li>
+          <li><a href="http://127.0.0.1:8000/services">Services</a></li>
+          <li><a href="http://127.0.0.1:8000/whyus">Why Us?</a></li>
+          <li><a href="http://127.0.0.1:8000/blog">Blog</a></li>
+          <li><a href="http://127.0.0.1:8000/about">About</a></li>
+          <li><a href="http://127.0.0.1:8000/contact">Contact</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+</header>
+
+
+
+	{% block content %} 
+     replace me 
+	{% endblock %}
+
+
+
+
+<!-- DISCUSS -->
+
+<div class="container-fluid text-center gap" id="light-green">
+  <h1 class="text-center gap">Discuss your Project/Requirements</h1>
+  <h4 class="text-center"><em>We’d be happy to discuss it with you. Let’s get in touch!</em></h4>
+  <h4 class="text-center"><em>Click below <span class="glyphicon glyphicon-arrow-down"></span> to briefly discuss your requirements to get a price estimate from us</em></h4>
+  
+  
+  <div class="row test gap">
+        <div class="col-md-12 form-group gap">
+          <a href="http://127.0.0.1:8000/contact#target"><button class="btn " id="button1">Click Here</button></a>
+          
+        </div>
+  </div>
+
+</div>
+
+
+
+
+
+
+<!-- FOOTER -->
+
+<footer class="panel-footer-2 text-center">
+    <div class="container">
+      <div class="row">
+        <section id="hours" class="col-sm-4">
+          <span>Hours:</span><br>
+          Sun-Thurs: 10:00am - 6.00pm<br>
+          <p><span class="glyphicon glyphicon-map-marker"></span> Dhaka, Bangladesh</p>
+          <hr class="visible-xs">
+        </section>
+        <section id="address" class="col-sm-4">
+          <span>Contact:</span><br>
+          <p><span class="glyphicon glyphicon-envelope"></span> Email: bakhtiyar.habib19@gmail.com</p>
+          <p><span class="glyphicon glyphicon-phone"></span> Phone: +88 01792 818 439</p>
+          <hr class="visible-xs">
+        </section>
+        <section id="social" class="col-sm-4">
+          <p>Social Media: </p> 
+          <a href="https://www.facebook.com/WebSketchLab/" class="fa fa-facebook"></a>
+          <a href="#" class="fa fa-instagram"></a>
+      </div>
+      <div class="text-center">&copy; Copyright Web Sketch Lab 2020</div>
+    </div>
+  </footer>
+
+
+  <script src="{% static 'js/script.js' %}"></script>
+</body>
+
+</html>

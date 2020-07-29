@@ -1,0 +1,32 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block content %}
+
+
+<!-- CONTAINER -->
+
+<div class="container-fluid services">
+  <div class="row pull-left" id="left-1">
+      <h2>Web Development</h2>
+      <h3>We create the perfect website that meets your needs.</h3>
+  </div>
+</div>
+
+
+
+<!-- SERVICES 2 -->
+
+<div class="container-fluid text-center">
+  <div class="text-center gap">
+    <div class="col-sm-8 gap">
+      <h2>Web Application Development</h2>
+      <p class="text-left">We provide a full-stack website development service, which means we can make you a complete package website that will meet all your needs. Increase the profitability, availability, and efficiency of your business via the relevant web development solutions with the scalable architecture using the latest technologies and trends. Our websites will produce an immersive experience for your users and/or audience across desktop, tablet, and mobile browsers. We help our customers embrace the mobile-centric web reality and transform legacy systems into modern cross-platform applications. Drawing on our deep front-end expertise, we implement the most demanded web app development scenarios.</p>
+    </div>
+    <div class="col-sm-4 gap">
+      <img class="img-responsive img-rounded" src="{% static 'images/webapp.jpg' %}">
+    </div>
+  </div>
+</div>
+
+
+{% endblock %}

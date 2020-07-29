@@ -1,0 +1,73 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block content %}
+
+
+<!-- CONTAINER -->
+
+<div class="container-fluid services">
+  <div class="row pull-left" id="left-1">
+      <h2>Contact Us</h2>
+      <h3>Collaborate with us to make something great together!</h3>
+  </div>
+</div>
+
+
+<!-- DISCUSS -->
+
+<div class="container-fluid text-center gap" id="light-green">
+  <h1 class="text-center">Discuss your Project/Requirements</h1>
+  <h4 class="text-center"><em>We’d be happy to discuss it with you. Let’s get in touch!</em></h4>
+  <h4 class="text-center"><em>Briefly discuss your requirements to get a price estimate from us</em></h4>
+  
+  <form actions='form.html' method="POST"> {%csrf_token %}
+
+  <div class="row test">
+
+    <div class="col-md-12 center-block">
+      <div class="row halfwidth1">
+        <div class="col-sm-4 form-group ">
+          {{ form.name }}
+        </div>
+        <div class="col-sm-4 form-group ">
+          {{ form.email }}
+        </div>
+        <div class="col-sm-4 form-group ">
+          {{ form.phone }}
+        </div>
+      </div>
+          {{ form.description }}
+      <div class="row">
+        <div class="col-md-12 form-group">
+          <button class="btn" id="button1" type="submit">Submit</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  </form>
+</div>
+
+
+
+<!-- SERVICES 2 -->
+
+<div class="container-fluid text-center">
+  <div class="text-center gap">
+    <div class="col-sm-8 gap">
+      <h3><span class="glyphicon glyphicon-map-marker"></span> We are based in: Dhaka, Bangladesh</h3>
+      <h3><span class="glyphicon glyphicon-envelope"></span> Email us: websketchlab@gmail.com</h3>
+      <h3> <span class="glyphicon glyphicon-phone"></span>Call us: +88 01792 818 439</h3>
+      <h2><b>Or you can directly tell us about your project below!</b><span class="glyphicon glyphicon-arrow-down"></span></h2>
+      <h3>Get a price estimate of your Project at your email within 3 working days!</h3>
+    </div>
+    <div class="col-sm-4 gap extragap">
+      <h3>Social Networks:</h3>
+      <h3><a href="https://www.facebook.com/WebSketchLab/" class="fa fa-facebook"></a>
+          <a href="#" class="fa fa-instagram"></a></h3>
+    </div>
+  </div>
+</div>
+
+
+
+{% endblock %}
